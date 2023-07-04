@@ -1,6 +1,6 @@
-//se cambio por formulario
+//se cambio por formularioo
 var formulario = document.querySelector(".formulario")
-
+ 
 //se cambia a event
 formulario.onsubmit = function(event) {
 
